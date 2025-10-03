@@ -1,0 +1,14 @@
+During this project we will learn to:
+- Build a complete Data Lake
+- Develop data pipelines in practice
+- Create a full data infrastructure on AWS
+- Use AWS tools such as S3, EMR, Databricks, Apache Airflow, Glue, Athena, and Metabase
+- Understand the role of a Data Engineer in the market
+- Comprehend the concept of a Data Lake and how to plan your data project
+- Create an AWS account and configure local credentials
+- Create an account and cluster on Databricks
+- Launch an Apache Airflow instance locally and on AWS (MWAA)
+- Create an S3 bucket to store your data
+- Create a catalog in AWS Glue and query data using Athena
+- Deploy a Metabase instance on AWS
+- Connect Metabase to your Data Lake to build professional dashboards and charts
