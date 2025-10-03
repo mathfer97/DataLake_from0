@@ -12,3 +12,5 @@ During this project we will learn to:
 - Create a catalog in AWS Glue and query data using Athena
 - Deploy a Metabase instance on AWS
 - Connect Metabase to your Data Lake to build professional dashboards and charts
+
+Tools: AWS, Python, PostgreSQL, Apache Airflow
