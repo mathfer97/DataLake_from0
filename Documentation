@@ -14,3 +14,8 @@ During this project we will learn to:
 - Connect Metabase to your Data Lake to build professional dashboards and charts
 
 Tools: AWS, Python, PostgreSQL, Apache Airflow
+
+First step:
+Create an account on aws, install docker and an instance for apache airflow, i did this step following these tutorial below:
+https://marcelo-albuquerque.medium.com/como-instalar-o-wsl-2-no-windows-10-3e26d99d7161
+https://github.com/aws/aws-mwaa-local-runner?tab=readme-ov-file#prerequisites
